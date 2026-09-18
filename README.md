@@ -49,12 +49,13 @@ A manual can be found on http://www.eirene.de/
 Following atomic and molecular databases are usually used within EIRENE:
 - [Amjuel](http://www.eirene.de/Documentation/amjuel.pdf)
 - [Hydhel](http://www.eirene.de/Documentation/hydhel.pdf)
+- [H2vibr](http://www.eirene.de/Documentation/h2vibr.pdf)
   
 [I was unable to find methane on the eirene website.]: #
   
 [Methane (http://www.eirene.de/methane.pdf)]: #
   
-- [H2vibr](http://www.eirene.de/Documentation/h2vibr.pdf)
+
 
 ## Installation
 
